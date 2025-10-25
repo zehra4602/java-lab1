@@ -1,0 +1,16 @@
+# IntelliJ IDEA klasörleri ve dosyaları
+.idea/
+*.iml
+*.xml
+
+# Build çıktıları
+out/
+target/
+build/
+
+# Log dosyaları
+*.log
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
